@@ -1,0 +1,7 @@
+Flask
+flask_restful
+flask_jwt_extended
+flask_limiter
+pymongo
+passlib
+validate_email
