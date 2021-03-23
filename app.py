@@ -47,7 +47,7 @@ def verify_hash(password, hash_):
 @app.route('/', methods=['GET'])
 @limiter.exempt
 def home():
-    return '''<h1>DeepCase API</h1>'''
+    return '''<h1>Flask API</h1>'''
 
 
 # Login
